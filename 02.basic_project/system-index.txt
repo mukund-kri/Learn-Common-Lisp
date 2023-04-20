@@ -1,0 +1,2 @@
+src/basic-project.asd
+src/.#basic-project.asd
