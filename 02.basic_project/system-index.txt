@@ -1,2 +1,1 @@
-src/basic-project.asd
-src/.#basic-project.asd
+basic-project.asd
