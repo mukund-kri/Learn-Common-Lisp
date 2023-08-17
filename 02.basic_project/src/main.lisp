@@ -15,3 +15,10 @@
 
 (defun main ()
   (clack:clackup app))
+
+(ql:quickload :iterate)
+
+(iterate:iterate (iterate:for i in '(1 2 3))
+  (format t "~A " i))
+
+
